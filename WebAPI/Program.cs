@@ -19,6 +19,6 @@ namespace WebAPI
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup_OData>();
+                .UseStartup<Startup_OpenAPI>();
     }
 }

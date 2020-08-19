@@ -11,3 +11,4 @@ C:\Users\Bariotti\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.Razo
 C:\Users\Bariotti\source\repos\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
 C:\Users\Bariotti\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
 C:\Users\Bariotti\source\repos\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\Bariotti\source\repos\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache

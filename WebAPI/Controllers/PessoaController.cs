@@ -25,7 +25,7 @@ namespace WebApi.Controllers
         }
 
         [HttpGet]
-        [EnableQuery]
+        //[EnableQuery]
         public IActionResult Get(bool incluirInativo = false)
         {
             try
